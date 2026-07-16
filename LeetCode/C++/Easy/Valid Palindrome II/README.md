@@ -1,6 +1,6 @@
 # 📝 Valid Palindrome II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome-ii/)
+🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome-ii)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Two Pointers, String, Greedy
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
