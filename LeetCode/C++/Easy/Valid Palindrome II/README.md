@@ -1,6 +1,6 @@
 # 📝 Valid Palindrome II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome-ii/solutions/7727008/beats-100-two-pointer-approach-javacpyth-g1id/)
+🔗 [Problem Link](https://leetcode.com/problems/valid-palindrome-ii)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Two Pointers, String, Greedy
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
