@@ -1,6 +1,6 @@
 # 📝 3Sum (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/3sum/)
+🔗 [Problem Link](https://leetcode.com/problems/3sum)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Two Pointers, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
