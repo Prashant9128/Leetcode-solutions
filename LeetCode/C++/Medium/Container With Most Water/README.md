@@ -1,6 +1,6 @@
 # 📝 Container With Most Water (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/container-with-most-water/)
+🔗 [Problem Link](https://leetcode.com/problems/container-with-most-water)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Two Pointers, Greedy
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
