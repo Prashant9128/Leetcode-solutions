@@ -90,3 +90,19 @@ If you want to sync your solutions automatically like this:
 <p align="center">
   <i>Keep Coding, Keep Improving! 🚀</i>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prashant9128/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prashant9128/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Prashant9128/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics End-->
