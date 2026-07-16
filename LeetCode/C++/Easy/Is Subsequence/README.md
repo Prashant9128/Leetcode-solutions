@@ -1,6 +1,6 @@
 # 📝 Is Subsequence (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/is-subsequence/)
+🔗 [Problem Link](https://leetcode.com/problems/is-subsequence)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Two Pointers, String, Dynamic Programming
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
