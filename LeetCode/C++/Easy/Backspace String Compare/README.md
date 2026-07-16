@@ -1,6 +1,6 @@
 # 📝 Backspace String Compare (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/backspace-string-compare/)
+🔗 [Problem Link](https://leetcode.com/problems/backspace-string-compare)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Two Pointers, String, Stack, Simulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
