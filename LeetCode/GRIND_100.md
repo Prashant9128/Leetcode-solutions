@@ -17,7 +17,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Sort Colors
 - [ ] Product of Array Except Self
 - [ ] Next Permutation
-- [x] [Trapping Rain Water](./C++/Hard/42. Trapping Rain Water/)
+- [x] [Trapping Rain Water](./C++/Uncategorized/Trapping Rain Water/)
 - [ ] Find the Duplicate Number
 - [ ] Majority Element
 - [ ] Find All Numbers Disappeared in an Array
