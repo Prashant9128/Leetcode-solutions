@@ -9,7 +9,7 @@ Linked List, Recursion
 
 ### 🚀 Performance
 - **Runtime:** 0 ms
-- **Memory:** 19.9 MB
+- **Memory:** 19.3 MB
 
 ---
 
