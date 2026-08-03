@@ -1,6 +1,6 @@
 # 📝 7. Reverse Integer (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/reverse-integer)
+🔗 [Problem Link](https://leetcode.com/problems/reverse-integer/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Math
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 8.5 MB
 
 ---
 
