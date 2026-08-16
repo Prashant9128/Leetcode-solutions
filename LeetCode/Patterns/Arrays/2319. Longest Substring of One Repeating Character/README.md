@@ -8,8 +8,8 @@
 Array, String, Segment Tree, Ordered Set
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 111 ms
+- **Memory:** 95.1 MB
 
 ---
 
