@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 19 / 100 (19.0%)
+- **Completed:** 20 / 100 (20.0%)
 
 ---
 
@@ -38,7 +38,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Valid Palindrome
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
-- [ ] Regular Expression Matching
+- [x] [Regular Expression Matching](./Java/Hard/10. Regular Expression Matching/)
 - [ ] Letter Combinations of a Phone Number
 
 ### 📂 Linked List
